@@ -1,0 +1,9 @@
+4,5 Alex
+4,6 Max
+3,0 Bill
+5,0 Anka
+3,5 Vano
+4,3 Scriptonyte
+2,4 Snoop
+2,6 Dog
+1,228 Java
